@@ -68,6 +68,49 @@ if (index !== -1) {
 
 
 
+console.log("==========================================");
+console.log("Function Lab1 Introduction");
+console.log("==========================================");
+
+console.log("----- Sum ------");
+function sum(num1,num2){
+    return num1+num2
+}
+console.log(sum(3,2));
+
+console.log("-----  Subtraction ------");
+function Subtraction(num1,num2){
+    return num1-num2
+}
+console.log(Subtraction(3,2));
+
+console.log("-----  Division ------");
+function Division(num1,num2){
+    return num1/num2
+}
+console.log(Division(3,2));
+
+console.log("-----  Multiplication ------");
+function Multiplication(num1,num2){
+    return num1*num2
+}
+console.log(Multiplication(3,2));
+
+console.log("-----  module ------");
+function module(num1,num2){
+    return num1%num2
+}
+console.log(module(3,2));
+
+
+
+
+
+
+
+
+
+
 
 
 
